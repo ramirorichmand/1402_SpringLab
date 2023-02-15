@@ -1,7 +1,7 @@
 # 14/02 Lab - The Spring Cinema
 
 
-We now have all the tools available to integrate an SQL database into our API. That means we can improve our cinema experience from the SQL lessons by using an API to save new films instead of writing the queries manually!
+Used tools available to integrate an SQL database into the API. Helps improve our cinema experience from the SQL lessons by using an API to save new films instead of writing the queries manually!
 
 ## MVP
 
